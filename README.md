@@ -1,4 +1,4 @@
-# Building a RAG pipeline using LangChain  
+# Building RAG pipelines using LangChain  
 
 In 2011, HP acquired Autonomy for approximately $11 billion. Within a year, HP recorded an $8.8 billion impairment charge, alleging materially overstated revenues and margins. The dispute produced extensive litigation and even criminal prosecutions.  
 
